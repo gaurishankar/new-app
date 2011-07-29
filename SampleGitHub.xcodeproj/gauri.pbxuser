@@ -1,0 +1,149 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* SampleGitHubAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 1380}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 157}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SampleGitHub */ = {
+		activeExec = 0;
+		executables = (
+			5EB0125A13E2D406005536A3 /* SampleGitHub */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SampleGitHubViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 225}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 160}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SampleGitHubViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 990}}";
+			sepNavSelRange = "{585, 0}";
+			sepNavVisRange = "{844, 618}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5EB0125A13E2D406005536A3 /* SampleGitHub */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SampleGitHub */;
+		codeSenseManager = 5EB0126C13E2D409005536A3 /* Code sense */;
+		executables = (
+			5EB0125A13E2D406005536A3 /* SampleGitHub */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					994,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 333633221;
+			PBXWorkspaceStateSaveDate = 333633221;
+		};
+		perUserProjectItems = {
+			5EB0127A13E2D6DF005536A3 /* PBXTextBookmark */ = 5EB0127A13E2D6DF005536A3 /* PBXTextBookmark */;
+			5EB0127B13E2D6DF005536A3 /* PBXTextBookmark */ = 5EB0127B13E2D6DF005536A3 /* PBXTextBookmark */;
+			5EB0127C13E2D6DF005536A3 /* PBXBookmark */ = 5EB0127C13E2D6DF005536A3 /* PBXBookmark */;
+			5EB0127D13E2D6DF005536A3 /* PBXTextBookmark */ = 5EB0127D13E2D6DF005536A3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5EB0126B13E2D409005536A3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5EB0125A13E2D406005536A3 /* SampleGitHub */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SampleGitHub;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	5EB0126B13E2D409005536A3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5EB0126C13E2D409005536A3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5EB0127A13E2D6DF005536A3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SampleGitHubAppDelegate.m */;
+		name = "SampleGitHubAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 157;
+		vrLoc = 0;
+	};
+	5EB0127B13E2D6DF005536A3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SampleGitHubViewController.h */;
+		name = "SampleGitHubViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 160;
+		vrLoc = 0;
+	};
+	5EB0127C13E2D6DF005536A3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SampleGitHubViewController.m */;
+	};
+	5EB0127D13E2D6DF005536A3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SampleGitHubViewController.m */;
+		name = "SampleGitHubViewController.m: 26";
+		rLen = 0;
+		rLoc = 585;
+		rType = 0;
+		vrLen = 618;
+		vrLoc = 844;
+	};
+}
