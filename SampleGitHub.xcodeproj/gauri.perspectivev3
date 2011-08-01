@@ -279,7 +279,7 @@
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 0}, {185, 693}}</string>
+							<string>{{0, 0}, {185, 691}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -289,14 +289,14 @@
 					<key>GeometryConfiguration</key>
 					<dict>
 						<key>Frame</key>
-						<string>{{0, 0}, {202, 711}}</string>
+						<string>{{0, 0}, {202, 709}}</string>
 						<key>GroupTreeTableConfiguration</key>
 						<array>
 							<string>MainColumn</string>
 							<real>185</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>0 126 1440 752 0 0 1440 878 </string>
+						<string>0 128 1440 750 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -326,12 +326,12 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>5EB0127D13E2D6DF005536A3</string>
+										<string>5EC61AD213E69B6500E2734C</string>
 										<key>history</key>
 										<array>
 											<string>5EB0127A13E2D6DF005536A3</string>
 											<string>5EB0127B13E2D6DF005536A3</string>
-											<string>5EB0127C13E2D6DF005536A3</string>
+											<string>5EB0127D13E2D6DF005536A3</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -345,18 +345,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1233, 397}}</string>
+								<string>{{0, 0}, {1233, 396}}</string>
 								<key>RubberWindowFrame</key>
-								<string>0 126 1440 752 0 0 1440 878 </string>
+								<string>0 128 1440 750 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>397pt</string>
+							<string>396pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
-							<string>309pt</string>
+							<string>308pt</string>
 							<key>Tabs</key>
 							<array>
 								<dict>
@@ -370,9 +370,9 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {1233, 282}}</string>
+										<string>{{10, 27}, {1233, 281}}</string>
 										<key>RubberWindowFrame</key>
-										<string>0 126 1440 752 0 0 1440 878 </string>
+										<string>0 128 1440 750 0 0 1440 878 </string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -454,11 +454,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>5EB0127E13E2D6DF005536A3</string>
+				<string>5EC61AD313E69B6500E2734C</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>5EB0127F13E2D6DF005536A3</string>
+				<string>5EC61AD413E69B6500E2734C</string>
 				<string>5EB0126513E2D409005536A3</string>
-				<string>5EB0128013E2D6DF005536A3</string>
+				<string>5EC61AD513E69B6500E2734C</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -628,10 +628,10 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>/SVN/SampleGitHub/SampleGitHub.xcodeproj</string>
+		<string>/Users/gauri/TestGithub/new-app/SampleGitHub.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>0 126 1440 752 0 0 1440 878 </string>
+	<string>0 128 1440 750 0 0 1440 878 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

@@ -22,9 +22,9 @@
 	};
 	28D7ACF70DDB3853001CB0EB /* SampleGitHubViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1172, 990}}";
-			sepNavSelRange = "{585, 0}";
-			sepNavVisRange = "{844, 618}";
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 1005}}";
+			sepNavSelRange = "{846, 0}";
+			sepNavVisRange = "{577, 503}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -58,14 +58,14 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 333633221;
-			PBXWorkspaceStateSaveDate = 333633221;
+			PBXPerProjectTemplateStateSaveDate = 333880149;
+			PBXWorkspaceStateSaveDate = 333880149;
 		};
 		perUserProjectItems = {
 			5EB0127A13E2D6DF005536A3 /* PBXTextBookmark */ = 5EB0127A13E2D6DF005536A3 /* PBXTextBookmark */;
 			5EB0127B13E2D6DF005536A3 /* PBXTextBookmark */ = 5EB0127B13E2D6DF005536A3 /* PBXTextBookmark */;
-			5EB0127C13E2D6DF005536A3 /* PBXBookmark */ = 5EB0127C13E2D6DF005536A3 /* PBXBookmark */;
 			5EB0127D13E2D6DF005536A3 /* PBXTextBookmark */ = 5EB0127D13E2D6DF005536A3 /* PBXTextBookmark */;
+			5EC61AD213E69B6500E2734C /* PBXTextBookmark */ = 5EC61AD213E69B6500E2734C /* PBXTextBookmark */;
 		};
 		sourceControlManager = 5EB0126B13E2D409005536A3 /* Source Control */;
 		userBuildSettings = {
@@ -132,10 +132,6 @@
 		vrLen = 160;
 		vrLoc = 0;
 	};
-	5EB0127C13E2D6DF005536A3 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* SampleGitHubViewController.m */;
-	};
 	5EB0127D13E2D6DF005536A3 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 28D7ACF70DDB3853001CB0EB /* SampleGitHubViewController.m */;
@@ -145,5 +141,15 @@
 		rType = 0;
 		vrLen = 618;
 		vrLoc = 844;
+	};
+	5EC61AD213E69B6500E2734C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SampleGitHubViewController.m */;
+		name = "SampleGitHubViewController.m: 37";
+		rLen = 0;
+		rLoc = 846;
+		rType = 0;
+		vrLen = 503;
+		vrLoc = 577;
 	};
 }

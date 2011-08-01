@@ -34,7 +34,7 @@
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
 - (void)viewDidLoad {
       
-    NSLog(@"gauri shankar prasad updated the profile\n");
+    NSLog(@"1st August updated the profile\n");
 
 
     [super viewDidLoad];
