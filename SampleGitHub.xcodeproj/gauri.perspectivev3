@@ -326,12 +326,12 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>5EC61AD213E69B6500E2734C</string>
+										<string>5EC61B3D13E6AE1E00E2734C</string>
 										<key>history</key>
 										<array>
 											<string>5EB0127A13E2D6DF005536A3</string>
-											<string>5EB0127B13E2D6DF005536A3</string>
-											<string>5EB0127D13E2D6DF005536A3</string>
+											<string>5EC61B3B13E6AE1E00E2734C</string>
+											<string>5EC61B3C13E6AE1E00E2734C</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -345,18 +345,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1233, 396}}</string>
+								<string>{{0, 0}, {1233, 387}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 128 1440 750 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>396pt</string>
+							<string>387pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
-							<string>308pt</string>
+							<string>317pt</string>
 							<key>Tabs</key>
 							<array>
 								<dict>
@@ -370,7 +370,7 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {1233, 281}}</string>
+										<string>{{10, 27}, {1233, 290}}</string>
 										<key>RubberWindowFrame</key>
 										<string>0 128 1440 750 0 0 1440 878 </string>
 									</dict>
@@ -454,11 +454,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>5EC61AD313E69B6500E2734C</string>
+				<string>5EC61B3E13E6AE1E00E2734C</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>5EC61AD413E69B6500E2734C</string>
+				<string>5EC61B3F13E6AE1E00E2734C</string>
 				<string>5EB0126513E2D409005536A3</string>
-				<string>5EC61AD513E69B6500E2734C</string>
+				<string>5EC61B4013E6AE1E00E2734C</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -628,7 +628,7 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>/Users/gauri/TestGithub/new-app/SampleGitHub.xcodeproj</string>
+		<string>/Users/gauri/TestingHub/new-app/SampleGitHub.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>0 128 1440 750 0 0 1440 878 </string>
